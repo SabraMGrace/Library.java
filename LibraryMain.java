@@ -21,7 +21,7 @@ System.out.println(" ")
 }
 
 	public static boolean showItem() {
-		String itemName
+		String itemName;
 		if itemName == true
 				return itemName;
 		System.out.println(itemName);
@@ -31,7 +31,7 @@ System.out.println(" ")
 	}
 
 	public static boolean showStatus() {
-		int status{
+		int status; {
 			1 == available;
 			2 == checked out;
 			3 == on hold, reserved;
